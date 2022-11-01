@@ -1,2 +1,2 @@
-# Mail-Box-Clint-Project-with-React-js
-Mail-Box-Clint-Task
+# Mail-Box-Client-Project-with-React-js
+Mail-Box-Client-Task
